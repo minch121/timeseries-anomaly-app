@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# 강의록 PDF (배포 불필요, 용량 큼)
+*.pdf
+
+# 임시
+_imgs/
+*.log
+.DS_Store
