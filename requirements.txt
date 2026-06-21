@@ -1,7 +1,7 @@
 streamlit==1.57.0
-pandas==2.3.3
-numpy==1.26.4
-plotly==6.5.2
-statsmodels==0.14.6
-scipy==1.13.0
-scikit-learn==1.7.2
+pandas>=2.2.3,<3
+numpy>=2.1.0
+plotly>=5.22.0,<7
+statsmodels>=0.14.4
+scipy>=1.14.1
+scikit-learn>=1.5.1
